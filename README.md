@@ -6,11 +6,9 @@
   </p>
 </div>
 
-<a href="https://yusufahmed.info](https://yusuf-4hmed.github.io/Cat-Match/" target="_blank">Site Link</a>
+
 
 ### Built With
-
-I started this project to improve on my skills.
 
 * HTML
 * CSS
